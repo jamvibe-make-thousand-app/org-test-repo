@@ -1,2 +1,6 @@
 hello, this is personal statement
+<<<<<<< HEAD
 개발자로서의 포부
+=======
+자기 소개!(sub2)
+>>>>>>> sub2
